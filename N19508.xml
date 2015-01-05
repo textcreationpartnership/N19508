@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:025421_0000_0FCD2A53EE21C4C8"/>
-            <pb facs="tcp:025421_0001_0FCD2A5543E86978" rendition="simple:additions"/>
+            <pb facs="unknown:025421_0000_0FCD2A53EE21C4C8"/>
+            <pb facs="unknown:025421_0001_0FCD2A5543E86978"
+                rendition="simple:additions"/>
             <p>POEMS ON Several Subjects: WRITTEN BY <hi>STEPHEN DUCK,</hi> LATELY A POOR THRESHER IN THE COUNTY OF WILTS, AT THE WAGES OF FOUR SHILLINGS AND SIX PENCE PER WEEK.</p>
             <p>
                <hi>Which were publicly read in the drawing room at Windſor Caſtle, on Friday the</hi> 11th <hi>of September,</hi> 1730, <hi>to her Majeſty Queen Caroline—Who was thereupon pleaſed to take the Author into her protection.</hi>
@@ -126,7 +127,8 @@
             <p>CORK, PRINTED—PHILADELPHIA: RE-PRINTED AND SOLD BY WILLIAM GIBBONS NO. 144, NORTH THIRD STREET. 1793.</p>
          </div>
          <div type="biography">
-            <pb facs="tcp:025421_0002_0FCD2A56F8FF2408" rendition="simple:additions"/>
+            <pb facs="unknown:025421_0002_0FCD2A56F8FF2408"
+                rendition="simple:additions"/>
             <head>THE AUTHOR's LIFE.</head>
             <p>
                <hi>STEPHEN DUCK,</hi> the Author of the following Poems, was born in the year 1705, near the ſeat of <hi>Pe<g ref="char:EOLhyphen"/>ter Bathurſt,</hi> 
@@ -134,7 +136,7 @@
             <p>The ſeeds of learning being once ſowed in our young plowman, there was no poſſibility of weeding them out: for the labour of his mind generally accompanied that of his body. <hi>Milton</hi> was his conſtant companion in the field and the barn: He had likewiſe made himſelf maſ<g ref="char:EOLhyphen"/>ter of a ſet of the <hi>Spectators,</hi> and <hi>Bailey's Engliſh Diction<g ref="char:EOLhyphen"/>ary.</hi> Our Author, thus equipped, aſcends the Hill of <hi>Parnaſſus.</hi>
             </p>
             <p>The courteous reader muſt be informed that our Poet is to be unhappily numbered amongſt thoſe men, whoſe <hi>learning</hi> and <hi>fine parts</hi> are not able to give their yoke<g ref="char:EOLhyphen"/>mates that <hi>ſatisfaction</hi> and <hi>content,</hi> which a weak mind with a vigorous conſtitution is generally apt to do. How<g ref="char:EOLhyphen"/>ever, he has had three children born to him in wedlock; at the chriſtening of the laſt child, one of the good wo<g ref="char:EOLhyphen"/>men happened to blab it out to the reverend gentleman who performed the ceremony, <hi>That Mr.</hi> Duck <hi>was a man of great learning, and had wit enough to be a parſon; for that he could make verſes like any man, and as good as ever ſhe heard in her life.</hi> Upon the recommendation of this wiſe woman, the doctor who is a dignified perſon in the Univerſity of <hi>Oxford,</hi> had ſome diſcourſe with Mr. <hi>Duck,</hi> and gave him a theme, with ſome directions for the improvement of his genius: But when Mr. <hi>Duck</hi> had finiſhed his Verſes, and preſented them to him for his approbation, the Doctor recommended them to the
-<pb n="iv" facs="tcp:025421_0003_0FCD2A5843EFF710"/>
+<pb n="iv" facs="unknown:025421_0003_0FCD2A5843EFF710"/>
 flames. This was a moſt cruel diſcouragement; ſo that for a long time after he was almoſt out of conceit with himſelf, and went on writing and burning, and his wife continually ſcolding, becauſe he neglected his labour: And when he was <hi>ſcanning</hi> his lines, ſhe would oftentimes run out and raiſe the whole neighbourhood, telling the people, <hi>That her Huſband dealt with the Devil, and was going mad becauſe he did nothing all day but talk to himſelf, and tell his Fingers.</hi>
             </p>
             <p>But mangre this ill ſituation of his poetical affairs, his fame at length began to rouſe the Wits of <hi>Wiltſhire</hi> to ſome conſideration of him, and he was admitted to the tables of a great many worthy gentlemen. He now wrote his Poem called the <hi>Shunamite,</hi> that on <hi>Poverty,</hi> and the <hi>Threſher's Labour;</hi> which were handed about the coun<g ref="char:EOLhyphen"/>try with great applauſe, in manuſcript. A copy was ſent to the Right Honourable the Earl of <hi>Tankerville</hi> at <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> where the Honourable Mrs. <hi>Clayton,</hi> of her Majeſty's Bed-chamber, happening to ſee it, that Lady immediate<g ref="char:EOLhyphen"/>ly preſented it to the Queen: The Verſes became in much reputation at Court by all judges of Poetry; and the Author was then ſent for to <hi>Windſor,</hi> where her Ma<g ref="char:EOLhyphen"/>jeſty was graciouſly pleaſed to declare, <hi>ſhe would allow him Thirty Guineas a year, and a little Houſe at Richmond, till he ſhould be better provided for.</hi>
@@ -144,7 +146,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:025421_0004_0FCD2A5B509721A0" rendition="simple:additions"/>
+            <pb facs="unknown:025421_0004_0FCD2A5B509721A0"
+                rendition="simple:additions"/>
             <head>Poems on Several Subjects.</head>
             <div type="poem">
                <head>THE <hi>SHUNAMITE.</hi>
@@ -194,7 +197,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>Which I refus'd, and thus my mind diſclos'd;</l>
                   <l>Heav'n's king hath plac'd us in a fertile land,</l>
                   <l>
-                     <pb n="6" facs="tcp:025421_0005_0FCD2A5CC4380C30"/>Where he ſhow'rs down his gifts with copious hand;</l>
+                     <pb n="6" facs="unknown:025421_0005_0FCD2A5CC4380C30"/>Where he ſhow'rs down his gifts with copious hand;</l>
                   <l>Already we enjoy an affluent ſtore,</l>
                   <l>Why ſhould we be ſolicitous for more?</l>
                   <l>Give martial camps, and kingly courts to them</l>
@@ -238,7 +241,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>Who crouded in a-pace to view my ſon;</l>
                   <l>
                      <pb n="7"
-                         facs="tcp:025421_0006_0FCD2A5ED4A13C18"
+                         facs="unknown:025421_0006_0FCD2A5ED4A13C18"
                          rendition="simple:additions"/>Surpriz'd, to hear my unexpected bliſs,</l>
                   <l>And each rejoices for my happineſs.</l>
                   <l>When all had ſaid, I mov'd my joyful tongue,</l>
@@ -287,7 +290,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>Like an embattled army in the field;</l>
                   <l>(A new delightful proſpect to the child!)</l>
                   <l>
-                     <pb n="8" facs="tcp:025421_0007_0FCD2A5FCE0ED8B0"/>But either there the ſcorching ſun diſplay'd</l>
+                     <pb n="8" facs="unknown:025421_0007_0FCD2A5FCE0ED8B0"/>But either there the ſcorching ſun diſplay'd</l>
                   <l>His heat intenſe, and on his vitals prey'd;</l>
                   <l>Or ſudden blaſt, or apoplectic pain,</l>
                   <l>With racking torture ſeiz'd his tender brain:</l>
@@ -341,7 +344,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>To earth's dark boſom, and eternal ſhade.</l>
                   <l>
                      <pb n="9"
-                         facs="tcp:025421_0008_0FCD2A614622A208"
+                         facs="unknown:025421_0008_0FCD2A614622A208"
                          rendition="simple:additions"/>Yet let me not preſcribe a bound to Heav'n,</l>
                   <l>'Twas by a miracle the child was giv'n;</l>
                   <l>No<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -420,7 +423,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>And who can that amazing act forget,</l>
                   <l>Which he perform'd to pay the widow's debt?</l>
                   <l>
-                     <pb n="10" facs="tcp:025421_0009_0FCD2A63797D54B8"/>Whoſe quantity of oil one pot contain'd,</l>
+                     <pb n="10" facs="unknown:025421_0009_0FCD2A63797D54B8"/>Whoſe quantity of oil one pot contain'd,</l>
                   <l>Yet num'rous veſſels fill'd before 'twas drain'd,</l>
                   <l>Then he who ſuch ſtupendous acts has done,</l>
                   <l>If God propitious prove, can raiſe my ſon.</l>
@@ -469,7 +472,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                </lg>
                <lg>
                   <pb n="11"
-                      facs="tcp:025421_0010_0FCD2A6509BBC2A0"
+                      facs="unknown:025421_0010_0FCD2A6509BBC2A0"
                       rendition="simple:additions"/>
                   <l>O thou, ſaid I, on whom my hope depends,</l>
                   <l>Do not transfer this <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -535,7 +538,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>Here ends the dame, and the promiſcuous throng,</l>
                   <l>With Hallelujahs thus conclude the ſong:</l>
                   <l>
-                     <pb n="12" facs="tcp:025421_0011_0FCD2A6686E6EFF0"/>Righteous and good art thou, Lord God of Hoſt,</l>
+                     <pb n="12" facs="unknown:025421_0011_0FCD2A6686E6EFF0"/>Righteous and good art thou, Lord God of Hoſt,</l>
                   <l>And all my works are wonderful and juſt;</l>
                   <l>Both life and death are in thy pow'rful hand;</l>
                   <l>Both life and death obey thy great command:</l>
@@ -579,7 +582,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>And gueſs from thence the profits of the year;</l>
                   <l>
                      <pb n="13"
-                         facs="tcp:025421_0012_0FCD2A6808273438"
+                         facs="unknown:025421_0012_0FCD2A6808273438"
                          rendition="simple:additions"/>Or elſe impending ruin to prevent,</l>
                   <l>By paying, timely, threat'ning landlord's rent,</l>
                   <l>He calls his threſhers forth: Al<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -622,7 +625,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>But we may think—Alas! what pleaſing thing</l>
                   <l>Here to the mind can the dull fancy bring?</l>
                   <l>
-                     <pb n="14" facs="tcp:025421_0013_0FCD2A69864D9A08"/>The Eye beholds no pleaſant object here:</l>
+                     <pb n="14" facs="unknown:025421_0013_0FCD2A69864D9A08"/>The Eye beholds no pleaſant object here:</l>
                   <l>No chearful ſound diverts the liſt'ning Ear.</l>
                   <l>The Shepherd well may tune his voice to ſing,</l>
                   <l>Inſpir'd by all the beauties of the Spring:</l>
@@ -666,7 +669,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>And joyful, long to breathe in op'ner air.</l>
                   <l>
                      <pb n="15"
-                         facs="tcp:025421_0014_0FCD2A6D2B027B98"
+                         facs="unknown:025421_0014_0FCD2A6D2B027B98"
                          rendition="simple:additions"/>This change of labour ſeems to give much eaſe;</l>
                   <l>And does, at leaſt, imagination pleaſe.</l>
                   <l>With thoughts of happineſs our joy's complete,</l>
@@ -717,7 +720,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>Till the meridian Sun with ſultry heat,</l>
                   <l>And piercing beams hath bath'd his ſides in ſweat;</l>
                   <l>
-                     <pb n="16" facs="tcp:025421_0015_0FCD2A6EE8B84D18"/>The lengthen'd chace ſcarce able to ſuſtain,</l>
+                     <pb n="16" facs="unknown:025421_0015_0FCD2A6EE8B84D18"/>The lengthen'd chace ſcarce able to ſuſtain,</l>
                   <l>He meaſures back the hills and dales with pain.</l>
                   <l>With heat and labour tir'd, our Scythes we quit,</l>
                   <l>Search out a ſhady tree and down we ſit;</l>
@@ -759,7 +762,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>The graſs again is ſpread upon the ground,</l>
                   <l>
                      <pb n="17"
-                         facs="tcp:025421_0016_0FCD2A70498A6200"
+                         facs="unknown:025421_0016_0FCD2A70498A6200"
                          rendition="simple:additions"/>Till not a vacant place is to be found;</l>
                   <l>And while the piercing Sun-beams on it ſhine,</l>
                   <l>The hay-makers have time allow'd to dine:</l>
@@ -803,7 +806,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>Where lately ſo much time we penſive ſpent:</l>
                   <l>Not penſive now; we bleſs the friendly ſhade,</l>
                   <l>
-                     <pb n="18" facs="tcp:025421_0017_0FCCE33BD46874F0"/>And to avoid the parching Sun are glad.</l>
+                     <pb n="18" facs="unknown:025421_0017_0FCCE33BD46874F0"/>And to avoid the parching Sun are glad.</l>
                   <l>But few days here we're deſtin'd to remain,</l>
                   <l>Before our maſter calls us forth again:</l>
                   <l>For Harveſt now, ſays he, yourſelves prepare,</l>
@@ -864,7 +867,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>And barely that, our maſter will allow.</l>
                   <l>
                      <pb n="19"
-                         facs="tcp:025421_0018_0FCD2A738C6B0BF0"
+                         facs="unknown:025421_0018_0FCD2A738C6B0BF0"
                          rendition="simple:additions"/>Nor, when aſleep, are we ſecure from pain,</l>
                   <l>We then perform our labours o'er again:</l>
                   <l>Our mimic fancy always reſtleſs ſeems,</l>
@@ -926,7 +929,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                </lg>
             </div>
             <div type="poem">
-               <pb n="20" facs="tcp:025421_0019_0FCD2A759B8C8168"/>
+               <pb n="20" facs="unknown:025421_0019_0FCD2A759B8C8168"/>
                <head>ON <hi>POVERTY.</hi>
                </head>
                <lg>
@@ -970,7 +973,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>The poor Man's Labour reliſhes his meat;</l>
                   <l>
                      <pb n="21"
-                         facs="tcp:025421_0020_0FCD2A7892EE7B38"
+                         facs="unknown:025421_0020_0FCD2A7892EE7B38"
                          rendition="simple:additions"/>His morſel's pleaſant, and his reſt is ſweet.</l>
                   <l>The little, nature craves, we find with eaſe;</l>
                   <l>Too much but ſurfeit into a diſeaſe:</l>
@@ -1021,7 +1024,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                </lg>
             </div>
             <div type="poem">
-               <pb n="22" facs="tcp:025421_0021_0FCD2A7C57C01FB8"/>
+               <pb n="22" facs="unknown:025421_0021_0FCD2A7C57C01FB8"/>
                <opener>
                   <salute>HONOUR'D SIR,</salute>
                </opener>
@@ -1068,7 +1071,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   <l>Such noble ſubjects ſhou'd my lays excite;</l>
                   <l>
                      <pb n="23"
-                         facs="tcp:025421_0022_0FCD2A7DC9A106E0"
+                         facs="unknown:025421_0022_0FCD2A7DC9A106E0"
                          rendition="simple:additions"/>And you, great patron, wou'd in ſuch delight:</l>
                   <l>Grateful to me, when you well pleas<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1132,7 +1135,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                      <l>One hardly worthy to unlooſe</l>
                      <l>The leathern thongs that tie thy ſhoes,</l>
                      <l>
-                        <pb n="24" facs="tcp:025421_0023_0FCD2A7FD3014F88"/>We udge did <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <pb n="24" facs="unknown:025421_0023_0FCD2A7FD3014F88"/>We udge did <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> his eye on thee.</l>
                      <l>In his <hi>Duck</hi> 
@@ -1186,7 +1189,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
             </div>
          </div>
          <div type="title_page">
-            <pb facs="tcp:025421_0024_0FCD2A81A6C1EBB8" rendition="simple:additions"/>
+            <pb facs="unknown:025421_0024_0FCD2A81A6C1EBB8"
+                rendition="simple:additions"/>
             <p>THE WOMAN's LABOUR: AN EPISTLE TO STEPHEN DUCK: <hi>In anſwer to his</hi> POEM <hi>called, The THRESHER's LABOUR.</hi>
             </p>
             <p>TO WHICH IS ADDED THE THREE WISE SENTENCES, TAKEN FROM ESDRAS, CH. III. AND IV.</p>
@@ -1194,7 +1198,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
             </p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:025421_0025_0FCD2A83CD9CC590" rendition="simple:additions"/>
+            <pb facs="unknown:025421_0025_0FCD2A83CD9CC590"
+                rendition="simple:additions"/>
             <head>ADVERTISEMENT.</head>
             <p>IT is thought proper to aſſure the Readers, that the follow<g ref="char:EOLhyphen"/>ing Verſes are really the productions of the Perſon to whom the Title-page aſcribes them.</p>
             <p>Tho' She pretends not to the Genius of Mr. <hi>DUCK,</hi> nor hopes to be taken notice of by the Great, yet her Friends are of opinion that the Novelty of a <hi>Waſher-Women</hi>'s turning Poeteſs, will procure her ſome Readers.</p>
@@ -1205,7 +1210,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:025421_0026_0FCD2A858F00F910" rendition="simple:additions"/>
+            <pb facs="unknown:025421_0026_0FCD2A858F00F910"
+                rendition="simple:additions"/>
             <head>THE WOMAN's LABOUR. TO MR. STEPHEN DUCK.</head>
             <lg>
                <l>IMMORTAL Bard! thou Fav'rite of the nine!</l>
@@ -1242,7 +1248,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>But now, alas! that Golden age is paſt,</l>
                <l>We are the objects of your ſcorn at laſt.</l>
                <l>
-                  <pb n="30" facs="tcp:025421_0027_0FCD2A8734944FD8"/>And you, great DUCK, upon whoſe happy brow,</l>
+                  <pb n="30" facs="unknown:025421_0027_0FCD2A8734944FD8"/>And you, great DUCK, upon whoſe happy brow,</l>
                <l>The Muſes ſeem to fix the garland now,</l>
                <l>In your late <hi>Poem</hi> boldly did declare</l>
                <l>
@@ -1284,7 +1290,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>Their ſlaves, at work, to chat it merrily.</l>
                <l>Since you have liberty to ſpeak your mind,</l>
                <l>
-                  <pb facs="tcp:025421_0028_0FCD2A8872472B88" rendition="simple:additions"/>And are to talk, as well as we, inclin'd,</l>
+                  <pb facs="unknown:025421_0028_0FCD2A8872472B88"
+                      rendition="simple:additions"/>And are to talk, as well as we, inclin'd,</l>
                <l>Why ſhould you thus repine, becauſe that we,</l>
                <l>Like you, enjoy that pleaſing liberty?</l>
                <l>What! wou'd you lord it quite, and take away</l>
@@ -1329,7 +1336,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>We find again our work but juſt begun;</l>
                <l>So many things for our attendance call,</l>
                <l>
-                  <pb n="32" facs="tcp:025421_0029_0FCD2A89E9638CF0"/>Had we ten hands, we could employ them all.</l>
+                  <pb n="32" facs="unknown:025421_0029_0FCD2A89E9638CF0"/>Had we ten hands, we could employ them all.</l>
                <l>Our children put to bed, with greateſt care,</l>
                <l>We all things for your coming home prepare:</l>
                <l>You ſup and go to Bed without delay,</l>
@@ -1374,7 +1381,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>The weather ne'er ſo bad, wind, rain, or ſnow,</l>
                <l>Our work appointed, we muſt riſe and go;</l>
                <l>
-                  <pb facs="tcp:025421_0030_0FCD2A8C0FC5B840" rendition="simple:additions"/>While you on eaſy Beds may lie and ſleep,</l>
+                  <pb facs="unknown:025421_0030_0FCD2A8C0FC5B840"
+                      rendition="simple:additions"/>While you on eaſy Beds may lie and ſleep,</l>
                <l>Till light does thro' your chamber windows peep.</l>
                <l>When to the houſe we come where we ſhould go,</l>
                <l>How to get in, alas! we do not know:</l>
@@ -1419,7 +1427,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>Until with heat and work, 'tis often known,</l>
                <l>Not only ſweat, but blood runs trickling down</l>
                <l>
-                  <pb n="34" facs="tcp:025421_0031_0FCD2A8E1BDFCDA0"/>Our wriſts and fingers; ſtill our work demands</l>
+                  <pb n="34" facs="unknown:025421_0031_0FCD2A8E1BDFCDA0"/>Our wriſts and fingers; ſtill our work demands</l>
                <l>The conſtant action of our lab'ring hands.</l>
             </lg>
             <lg>
@@ -1477,7 +1485,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   </gap>iſtreſs ſends to let us know</l>
                <l>She wants our help, becauſe the beer runs low;</l>
                <l>
-                  <pb facs="tcp:025421_0032_0FCD2A8FD1E4F690" rendition="simple:additions"/>Then in much haſte for brewing we prepare,</l>
+                  <pb facs="unknown:025421_0032_0FCD2A8FD1E4F690"
+                      rendition="simple:additions"/>Then in much haſte for brewing we prepare,</l>
                <l>The veſſels clean, and ſcald with greateſt care;</l>
                <l>Often at midnight, from our bed we riſe,</l>
                <l>At other times, ev'n <hi>that</hi> will not ſuffice;</l>
@@ -1521,7 +1530,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>Till night came on, and all retir'd were,</l>
                <l>Then to his chamber did to reſt repair;</l>
                <l>
-                  <pb n="36" facs="tcp:025421_0033_0FCD2A91492E24B8"/>Where ſeveral<note n="*" place="bottom">Cuſtom among the Eaſtern Monarchs.</note> noble youths ſtrict watch did keep,</l>
+                  <pb n="36" facs="unknown:025421_0033_0FCD2A91492E24B8"/>Where ſeveral<note n="*" place="bottom">Cuſtom among the Eaſtern Monarchs.</note> noble youths ſtrict watch did keep,</l>
                <l>To guard his ſacred perſon in his ſleep;</l>
                <l>Among them three young men of virtuous mind,</l>
                <l>Whoſe hearts to ſtudy wiſdom were inclin'd,</l>
@@ -1567,7 +1576,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>Impartially to end this nice affair.</l>
             </lg>
             <lg>
-               <pb facs="tcp:025421_0034_0FCD2A95267E62A8" rendition="simple:additions"/>
+               <pb facs="unknown:025421_0034_0FCD2A95267E62A8"
+                   rendition="simple:additions"/>
                <l>And now their ſeveral writings being read,</l>
                <l>That with the greater force they may proceed,</l>
                <l>The king commands the young men in with ſpeed,</l>
@@ -1614,7 +1624,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>All men on earth ſubmiſſively obey!</l>
                <l>They yield obedience to his princely will,</l>
                <l>
-                  <pb n="38" facs="tcp:025421_0035_0FCD2A97D2D292B0"/>And ready are his pleaſure to fulfil:</l>
+                  <pb n="38" facs="unknown:025421_0035_0FCD2A97D2D292B0"/>And ready are his pleaſure to fulfil:</l>
                <l>To his dominion, high and low ſubmit,</l>
                <l>He over them bears rule as he thinks fit.</l>
                <l>If he in hoſtile manner draws his ſword,</l>
@@ -1665,7 +1675,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                   </gap>em all, that ſate in judgment there.</l>
             </lg>
             <lg>
-               <pb facs="tcp:025421_0036_0FCD2A99194285B0" rendition="simple:additions"/>
+               <pb facs="unknown:025421_0036_0FCD2A99194285B0"
+                   rendition="simple:additions"/>
                <l>Moſt worthy princes! I do freely own</l>
                <l>The ſtrength of <hi>Kings</hi> throughout the world is known;</l>
                <l>The force of <hi>Wine</hi> all mortals know full well;</l>
@@ -1708,7 +1719,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>Will croſs the ſeas, and wander on the land;</l>
                <l>No horrid dangers can procure his ſtay,</l>
                <l>
-                  <pb n="40" facs="tcp:025421_0037_0FCD2A9A4D2ABA40"/>He bravely dares a lion in the way;</l>
+                  <pb n="40" facs="unknown:025421_0037_0FCD2A9A4D2ABA40"/>He bravely dares a lion in the way;</l>
                <l>Laden with booty to his miſtreſs flies,</l>
                <l>And at her feet preſents the golden prize.</l>
                <l>Some men, for love of <hi>women,</hi> oft we ſee,</l>
@@ -1750,7 +1761,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>For now they very plainly did deſcry,</l>
                <l>This noble prince would have the victory;</l>
                <l>
-                  <pb facs="tcp:025421_0038_0FCD2A9C39297028" rendition="simple:additions"/>Who, having paus'd, began to ſpeak again,</l>
+                  <pb facs="unknown:025421_0038_0FCD2A9C39297028"
+                      rendition="simple:additions"/>Who, having paus'd, began to ſpeak again,</l>
                <l>Not doubting but he ſhould acceptance gain.</l>
             </lg>
             <lg>
@@ -1799,7 +1811,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>This brave young Prince ſhould have the victory:</l>
                <l>The king and council did his wiſdom praiſe,</l>
                <l>
-                  <pb n="42" facs="tcp:025421_0039_0FCD2A9EC8074C40"/>Affirming <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <pb n="42" facs="unknown:025421_0039_0FCD2A9EC8074C40"/>Affirming <gap reason="illegible" resp="#PDCC" extent="4 letters">
                      <desc>••••</desc>
                   </gap>d doubly won the Bays,</l>
                <l>Straightway the king <hi>Darius</hi> did declare,</l>
@@ -1855,7 +1867,8 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
                <l>Before the council, doth the Prince embrace;</l>
                <l>Grants his requeſt, and doth his letters ſend,</l>
                <l>
-                  <pb facs="tcp:025421_0040_0FCD2AA048DDE1D8" rendition="simple:additions"/>Commanding all his captains to attend</l>
+                  <pb facs="unknown:025421_0040_0FCD2AA048DDE1D8"
+                      rendition="simple:additions"/>Commanding all his captains to attend</l>
                <l>Both him and his, that ſo they might convey</l>
                <l>Them to their ancient land without delay:</l>
                <l>Not only from all tribute ſet them <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1924,7 +1937,7 @@ flames. This was a moſt cruel diſcouragement; ſo that for a long time after h
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:025421_0041_0FCD2AA1CA1F56D0"/>
+            <pb facs="unknown:025421_0041_0FCD2AA1CA1F56D0"/>
             <p>Lately Publiſhed, <hi>And for Sale at WILLIAM GIBBONS's Printing-Office, No.</hi> 144, <hi>North Third Street.</hi>
             </p>
             <p>(PRICE—ELEVEN-PENCE)</p>
